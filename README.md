@@ -1,15 +1,6 @@
 # Social Media Application 
 A Responsive MERN app that allows the users to view, create, edit or delete posts related to their best moments in life.
 
-<!-- Deployed Links -->
-(Netlify) Frontend Link:
-<br/>
-https://memories-puneet.netlify.app
-
-(Render) Backend Link:
-<br />
-https://social-media-ctxa.onrender.com
-
 <!--  Features -->
 # Features
 1. Create, delete or edit posts
